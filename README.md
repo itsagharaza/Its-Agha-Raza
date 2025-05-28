@@ -25,3 +25,5 @@ I specialize in building clean and minimal interfaces using **HTML, CSS, JavaScr
 
 ### ⚡ Fun Fact
 I started learning web development at age 13 and I'm still exploring every day!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsagharaza&show_icons=true&theme=tokyonight)
